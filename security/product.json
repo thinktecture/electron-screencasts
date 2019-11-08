@@ -1,0 +1,8 @@
+{
+    "name": "electron-casts",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+        "electron-memento": "0.0.3"
+    }
+}

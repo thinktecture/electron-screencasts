@@ -1,0 +1,23 @@
+{
+    "name": "ux-optimieren",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "keywords": [],
+    "author": "Thorsten Hans <thorsten.hans@gmail.com> (https://thorsten-hans.com/)",
+    "license": "ISC",
+    "devDependencies": {
+        "electron": "^7.0.0",
+        "mkdirp": "^0.5.1",
+        "mocha": "^6.2.2",
+        "ncp": "^2.0.0",
+        "rimraf": "^3.0.0",
+        "spectron": "^9.0.0"
+    },
+    "dependencies": {
+        "electron-memento": "0.0.3"
+    }
+}
