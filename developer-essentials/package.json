@@ -5,7 +5,7 @@
     "main": "index.js",
     "scripts": {
         "test": "mocha",
-        "build": "npx electron-packager "
+        "build": "npx electron-packager ."
     },
     "keywords": [],
     "author": "Thorsten Hans <thorsten.hans@gmail.com> (https://thorsten-hans.com/)",
