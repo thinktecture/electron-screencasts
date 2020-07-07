@@ -11,7 +11,7 @@
     "author": "Thorsten Hans <thorsten.hans@gmail.com> (https://thorsten-hans.com/)",
     "license": "ISC",
     "devDependencies": {
-        "electron": "^7.0.0",
+        "electron": "^7.2.4",
         "mocha": "^6.2.2",
         "spectron": "^9.0.0"
     },
